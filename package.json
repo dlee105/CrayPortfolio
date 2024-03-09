@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dlee105.github.io/crayportfolio",
+  "homepage": "https://dlee105.github.io/CrayPortfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

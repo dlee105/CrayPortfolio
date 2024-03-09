@@ -1,0 +1,30 @@
+.darken {
+  filter: brightness(50%);
+}
+
+.text-crimson {
+  color: #98042d;
+  margin: auto;
+  letter-spacing: 0.0015em;
+  font-size: 5em;
+
+  text-shadow: 0 1px #bf4c41, -1px 0 #fcc0c5, -1px 2px #bf4c41, -2px 1px #e1e2e7,
+    -2px 3px #bf4c41, -3px 2px #fcc0c5, -3px 4px #bf4c41, -4px 3px #e1e2e7,
+    -4px 5px #bf4c41, -5px 4px #fcc0c5, -5px 6px #bf4c41, -6px 5px #e1e2e7,
+    -6px 7px #bf4c41, -7px 6px #fcc0c5, -7px 8px #bf4c41, -8px 7px #e1e2e7;
+  text-align: center;
+}
+
+.logo-normal {
+  color: #98042d;
+  margin: auto;
+  letter-spacing: 0.0015em;
+  font-size: 5em;
+  font-weight: bolder;
+}
+
+.header-transition {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 500ms;
+}
